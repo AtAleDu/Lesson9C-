@@ -1,0 +1,4 @@
+﻿  Server9.cpp
+C:\Users\Arthur\source\repos\Lesson_9\Server9\Server9.cpp(76,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arthur\source\repos\Lesson_9\Server9\Server9.cpp(86,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Server9.vcxproj -> C:\Users\Arthur\source\repos\Lesson_9\x64\Debug\Server9.exe
